@@ -2,4 +2,5 @@
 Este es el fichero readme del repositorio
 - Desarrollador: Iván Ruiz Rube
 - Lenguaje de programación: Java
-- IDE: Eclipse
+- IDE: Eclipse o Visual Studio Code
+- Herramienta de construcción: Maven

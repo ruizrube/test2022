@@ -2,7 +2,7 @@
 Este es el fichero README del repositorio del proyecto de prueba 
 - Desarrollador: Iván Ruiz Rube
 - IDE: Eclipse
-- Herramienta de modelado: GenMyModel
+- Herramienta de modelado: Por definir
 - Herramienta de construcción: Maven
 - Lenguaje de programación: Java
 - Cliente de bases de datos: DBeaver

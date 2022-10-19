@@ -4,4 +4,5 @@ Este es el fichero README del repositorio del proyecto de prueba
 - IDE: Eclipse
 - Herramienta de construcción: Maven
 - Lenguaje de programación: Java
+- Base de datos: MySQL
 - Frameworks de desarrollo: Spring y Vaadin
